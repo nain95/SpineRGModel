@@ -1,0 +1,2212 @@
+{
+    "degree": {
+        "about": [
+            "about"
+        ],
+        "acute": [
+            "acute",
+            "acuity"
+        ],
+        "acuity": [
+            "acute",
+            "acuity"
+        ],
+        "advanced": [
+            "advanced"
+        ],
+        "amount": [
+            "amount"
+        ],
+        "any": [
+            "any"
+        ],
+        "asymmetric": [
+            "asymmetric"
+        ],
+        "benign": [
+            "benign"
+        ],
+        "chronic": [
+            "chronic"
+        ],
+        "cold": [
+            "cold"
+        ],
+        "concentric": [
+            "concentric"
+        ],
+        "congenital": [
+            "congenital"
+        ],
+        "coverage": [
+            "coverage"
+        ],
+        "decrease": [
+            "decrease",
+            "deceased"
+        ],
+        "deceased": [
+            "decrease",
+            "deceased"
+        ],
+        "demonstrable": [
+            "demonstrable"
+        ],
+        "dense": [
+            "dense"
+        ],
+        "diffuse": [
+            "diffuse",
+            "diffusely"
+        ],
+        "diffusely": [
+            "diffuse",
+            "diffusely"
+        ],
+        "early": [
+            "early"
+        ],
+        "enlarged": [
+            "enlarged"
+        ],
+        "exaggerated": [
+            "exaggerated"
+        ],
+        "extension": [
+            "extension"
+        ],
+        "fine": [
+            "fine"
+        ],
+        "focal": [
+            "focal"
+        ],
+        "further": [
+            "further"
+        ],
+        "grade": [
+            "grade"
+        ],
+        "gross": [
+            "gross"
+        ],
+        "heterogeneous": [
+            "heterogeneous"
+        ],
+        "ill-defined": [
+            "ill-defined"
+        ],
+        "incomplete": [
+            "incomplete"
+        ],
+        "increased": [
+            "increased"
+        ],
+        "indistinct": [
+            "indistinct"
+        ],
+        "inhomogeneous": [
+            "inhomogeneous"
+        ],
+        "irregular": [
+            "irregular"
+        ],
+        "known": [
+            "known"
+        ],
+        "large": [
+            "large"
+        ],
+        "less": [
+            "less"
+        ],
+        "likely": [
+            "likely"
+        ],
+        "limited": [
+            "limited"
+        ],
+        "longstanding": [
+            "longstanding"
+        ],
+        "looking": [
+            "looking"
+        ],
+        "low": [
+            "low"
+        ],
+        "maintained": [
+            "maintained"
+        ],
+        "malaligned": [
+            "malaligned"
+        ],
+        "malalignment": [
+            "malalignment"
+        ],
+        "malignant": [
+            "malignant"
+        ],
+        "marginal": [
+            "marginal"
+        ],
+        "marked": [
+            "marked"
+        ],
+        "markedly": [
+            "markedly"
+        ],
+        "massive": [
+            "massive"
+        ],
+        "mild": [
+            "mild"
+        ],
+        "minimal": [
+            "minimal"
+        ],
+        "minute": [
+            "minute"
+        ],
+        "moderate": [
+            "moderate"
+        ],
+        "multifocal": [
+            "multifocal"
+        ],
+        "multiple": [
+            "multiple"
+        ],
+        "narrow": [
+            "narrow"
+        ],
+        "nearly": [
+            "nearly"
+        ],
+        "neglected": [
+            "neglected"
+        ],
+        "newly": [
+            "newly"
+        ],
+        " no ": [
+            " no "
+        ],
+        "nondisplaced": [
+            "nondisplaced"
+        ],
+        "nonfusion": [
+            "nonfusion"
+        ],
+        "normal": [
+            "normal"
+        ],
+        "numerous": [
+            "numerous"
+        ],
+        "old": [
+            "old"
+        ],
+        "others": [
+            "others"
+        ],
+        "overlapping": [
+            "overlapping"
+        ],
+        "partial": [
+            "partial"
+        ],
+        "poor": [
+            "poor"
+        ],
+        "preserved": [
+            "preserved"
+        ],
+        "rather": [
+            "rather"
+        ],
+        "reactive": [
+            "reactive"
+        ],
+        "recurred": [
+            "recurred"
+        ],
+        "relatively": [
+            "relatively"
+        ],
+        "remained": [
+            "remained"
+        ],
+        "remarkable": [
+            "remarkable"
+        ],
+        "remnant": [
+            "remnant"
+        ],
+        "remote": [
+            "remote"
+        ],
+        "reversed": [
+            "reversed"
+        ],
+        "several": [
+            "several"
+        ],
+        "severe": [
+            "severe"
+        ],
+        "short": [
+            "short"
+        ],
+        "simple": [
+            "simple"
+        ],
+        "small": [
+            "small"
+        ],
+        "smooth": [
+            "smooth"
+        ],
+        "soft": [
+            "soft"
+        ],
+        "some": [
+            "some"
+        ],
+        "subacute": [
+            "subacute"
+        ],
+        "subtle": [
+            "subtle"
+        ],
+        "superimposed": [
+            "superimposed"
+        ],
+        "symmetric": [
+            "symmetric"
+        ],
+        "than": [
+            "than"
+        ],
+        "thick": [
+            "thick"
+        ],
+        "thin": [
+            "thin"
+        ],
+        "unremarkable": [
+            "unremarkable"
+        ],
+        "vaguely": [
+            "vaguely"
+        ],
+        "without": [
+            "without"
+        ],
+        "worsening": [
+            "worsening"
+        ]
+    },
+    "landmark": {
+        "11-12th": [
+            "11-12th"
+        ],
+        "11th": [
+            "11th"
+        ],
+        "12": [
+            "12"
+        ],
+        "12th": [
+            "12th"
+        ],
+        "artery": [
+            "artery"
+        ],
+        "abdomen": [
+            "abdomen",
+            "abdominal"
+        ],
+        "abdominal": [
+            "abdomen",
+            "abdominal"
+        ],
+        "acetabular": [
+            "acetabular",
+            "acetabulum"
+        ],
+        "acetabulum": [
+            "acetabular",
+            "acetabulum"
+        ],
+        "adjacent": [
+            "adjacent"
+        ],
+        "adnexa": [
+            "adnexa"
+        ],
+        "ala": [
+            "ala"
+        ],
+        "along": [
+            "along"
+        ],
+        "anterior": [
+            "anterior"
+        ],
+        "anteroposterior": [
+            "anteroposterior"
+        ],
+        "anterosuperiorly": [
+            "anterosuperiorly"
+        ],
+        "aorta": [
+            "aorta",
+            "aortic"
+        ],
+        "aortic": [
+            "aorta",
+            "aortic"
+        ],
+        "aortoiliac": [
+            "aortoiliac"
+        ],
+        "appendix": [
+            "appendix"
+        ],
+        "area": [
+            "area"
+        ],
+        "around": [
+            "around"
+        ],
+        "aspect": [
+            "aspect"
+        ],
+        "axial": [
+            "axial"
+        ],
+        "back": [
+            "back"
+        ],
+        "between": [
+            "between"
+        ],
+        "bifida": [
+            "bifida"
+        ],
+        "bilateral": [
+            "bilateral"
+        ],
+        "biliary": [
+            "biliary"
+        ],
+        "bladder": [
+            "bladder"
+        ],
+        "bodies": [
+            "bodies"
+        ],
+        "body": [
+            "body"
+        ],
+        "bone": [
+            "bone"
+        ],
+        "border": [
+            "border"
+        ],
+        "both": [
+            "both"
+        ],
+        "bottocks": [
+            "bottocks"
+        ],
+        "boundary": [
+            "boundary"
+        ],
+        "bowel": [
+            "bowel"
+        ],
+        "breast": [
+            "breast"
+        ],
+        "buttock": [
+            "buttock",
+            "buttocks"
+        ],
+        "buttocks": [
+            "buttock",
+            "buttocks"
+        ],
+        "c1": [
+            "c1"
+        ],
+        "cages": [
+            "cages"
+        ],
+        "calyceas": [
+            "calyceas"
+        ],
+        "canal": [
+            "canal"
+        ],
+        "cava": [
+            "cava"
+        ],
+        "cavity": [
+            "cavity"
+        ],
+        "central": [
+            "central"
+        ],
+        "cervical": [
+            "cervical"
+        ],
+        "chest": [
+            "chest"
+        ],
+        "coccyx": [
+            "coccyx"
+        ],
+        "colon": [
+            "colon"
+        ],
+        "common": [
+            "common"
+        ],
+        "cortical": [
+            "cortical"
+        ],
+        "crest": [
+            "crest"
+        ],
+        "disc": [
+            "disc"
+        ],
+        "distal": [
+            "distal"
+        ],
+        "dorsal": [
+            "dorsal"
+        ],
+        "dsic": [
+            "dsic"
+        ],
+        "dural": [
+            "dural"
+        ],
+        "element": [
+            "element"
+        ],
+        "end": [
+            "end"
+        ],
+        "endplate": [
+            "endplate"
+        ],
+        "epidural": [
+            "epidural"
+        ],
+        "facet": [
+            "facet"
+        ],
+        "femur": [
+            "femur"
+        ],
+        "fibula": [
+            "fibula"
+        ],
+        "flaum": [
+            "flaum"
+        ],
+        "foci": [
+            "foci"
+        ],
+        "foraminal": [
+            "foraminal"
+        ],
+        "gallbladder": [
+            "gallbladder"
+        ],
+        "head": [
+            "head"
+        ],
+        "height": [
+            "height"
+        ],
+        "hemivertebrae": [
+            "hemivertebrae"
+        ],
+        "hip": [
+            "hip"
+        ],
+        "iliac": [
+            "iliac"
+        ],
+        "iliopubic": [
+            "iliopubic"
+        ],
+        "ilium": [
+            "ilium"
+        ],
+        "inferior": [
+            "inferior"
+        ],
+        "interbody": [
+            "interbody"
+        ],
+        "interfascial": [
+            "interfascial"
+        ],
+        "internal": [
+            "internal"
+        ],
+        "interspace": [
+            "interspace"
+        ],
+        "interspinal": [
+            "interspinal"
+        ],
+        "interspinous": [
+            "interspinous"
+        ],
+        "intertrochanteric": [
+            "intertrochanteric"
+        ],
+        "intervertebral": [
+            "intervertebral"
+        ],
+        "intra": [
+            "intra"
+        ],
+        "intrabody": [
+            "intrabody"
+        ],
+        "intrauterine": [
+            "intrauterine"
+        ],
+        "ischium": [
+            "ischium"
+        ],
+        "joint": [
+            "joint"
+        ],
+        "junction": [
+            "junction"
+        ],
+        "kidney": [
+            "kidney"
+        ],
+        "l1": [
+            "l1"
+        ],
+        "l1-2": [
+            "l1-2"
+        ],
+        "l1-2-3": [
+            "l1-2-3"
+        ],
+        "l1-2-3-4": [
+            "l1-2-3-4"
+        ],
+        "l1-2-3-4-5": [
+            "l1-2-3-4-5"
+        ],
+        "l1-2-3-4-5-s1": [
+            "l1-2-3-4-5-s1"
+        ],
+        "l1-2-3-5": [
+            "l1-2-3-5"
+        ],
+        "l1-l2-l3": [
+            "l1-l2-l3"
+        ],
+        "l1-l4": [
+            "l1-l4"
+        ],
+        "l2": [
+            "l2"
+        ],
+        "l2~s1": [
+            "l2~s1"
+        ],
+        "l2-3": [
+            "l2-3"
+        ],
+        "l2-3-4": [
+            "l2-3-4"
+        ],
+        "l2-3-4-5": [
+            "l2-3-4-5"
+        ],
+        "l2-3-4-5-s1": [
+            "l2-3-4-5-s1"
+        ],
+        "l2-4": [
+            "l2-4"
+        ],
+        "l2-l3": [
+            "l2-l3"
+        ],
+        "l2-l3-l4-l5": [
+            "l2-l3-l4-l5"
+        ],
+        "l3": [
+            "l3"
+        ],
+        "l3-4": [
+            "l3-4"
+        ],
+        "l3-4-5": [
+            "l3-4-5"
+        ],
+        "l3-4-5-s1": [
+            "l3-4-5-s1"
+        ],
+        "l3-4-l5": [
+            "l3-4-l5"
+        ],
+        "l4": [
+            "l4"
+        ],
+        "l4-5": [
+            "l4-5"
+        ],
+        "l4-5/": [
+            "l4-5/"
+        ],
+        "l4-5-6": [
+            "l4-5-6"
+        ],
+        "l4-5-s1": [
+            "l4-5-s1"
+        ],
+        "l4-5-s1/": [
+            "l4-5-s1/"
+        ],
+        "l4-l5": [
+            "l4-l5"
+        ],
+        "l5": [
+            "l5"
+        ],
+        "l5-s1": [
+            "l5-s1"
+        ],
+        "lamina": [
+            "lamina"
+        ],
+        "lateral": [
+            "lateral"
+        ],
+        "left": [
+            "left"
+        ],
+        "left-sided": [
+            "left-sided"
+        ],
+        "level": [
+            "level"
+        ],
+        "ligament": [
+            "ligament"
+        ],
+        "liver": [
+            "liver"
+        ],
+        "lobe": [
+            "lobe"
+        ],
+        "longitudinal": [
+            "longitudinal"
+        ],
+        "loop": [
+            "loop"
+        ],
+        "lower": [
+            "lower"
+        ],
+        "l-s": [
+            "l-s"
+        ],
+        "l-spine": [
+            "l-spine"
+        ],
+        "lumbar": [
+            "lumbar"
+        ],
+        "lumbo-pelvic": [
+            "lumbo-pelvic"
+        ],
+        "l-p": [
+            "l-p",
+            "lumboperitoneal"
+        ],
+        "lumboperitoneal": [
+            "l-p",
+            "lumboperitoneal"
+        ],
+        "lung": [
+            "lung"
+        ],
+        "margin": [
+            "margin"
+        ],
+        "median": [
+            "median"
+        ],
+        "mesenteric": [
+            "mesenteric"
+        ],
+        "near": [
+            "near"
+        ],
+        "neck": [
+            "neck"
+        ],
+        "neural": [
+            "neural"
+        ],
+        "node": [
+            "node"
+        ],
+        "nucleus": [
+            "nucleus"
+        ],
+        "occulta": [
+            "occulta"
+        ],
+        "outline": [
+            "outline"
+        ],
+        "ovary": [
+            "ovary"
+        ],
+        "ovoid": [
+            "ovoid"
+        ],
+        "pancreas": [
+            "pancreas"
+        ],
+        "paramedian": [
+            "paramedian"
+        ],
+        "paraspinal": [
+            "paraspinal"
+        ],
+        "paravertebral": [
+            "paravertebral"
+        ],
+        "parenchymal": [
+            "parenchymal"
+        ],
+        "pedicle": [
+            "pedicle"
+        ],
+        "pelvis": [
+            "pelvis"
+        ],
+        "percutaneous": [
+            "percutaneous"
+        ],
+        "periarticular": [
+            "periarticular"
+        ],
+        "peripherally": [
+            "peripherally"
+        ],
+        "plane": [
+            "plane"
+        ],
+        "pleural": [
+            "pleural"
+        ],
+        "plevic": [
+            "plevic"
+        ],
+        "portion": [
+            "portion"
+        ],
+        "post": [
+            "post"
+        ],
+        "posterior": [
+            "posterior"
+        ],
+        "presacral": [
+            "presacral"
+        ],
+        "process": [
+            "process"
+        ],
+        "prostate": [
+            "prostate"
+        ],
+        "proximal": [
+            "proximal"
+        ],
+        "pubis": [
+            "pubis"
+        ],
+        "pulposus": [
+            "pulposus"
+        ],
+        "quadrant": [
+            "quadrant"
+        ],
+        "rami": [
+            "rami"
+        ],
+        "ramus": [
+            "ramus"
+        ],
+        "rectum": [
+            "rectum"
+        ],
+        "renal": [
+            "renal"
+        ],
+        "rib": [
+            "rib"
+        ],
+        "right": [
+            "right"
+        ],
+        "right-sided": [
+            "right-sided"
+        ],
+        "s1": [
+            "s1"
+        ],
+        "s1~s4": [
+            "s1~s4"
+        ],
+        "s1-2": [
+            "s1-2"
+        ],
+        "s2": [
+            "s2"
+        ],
+        "s3": [
+            "s3"
+        ],
+        "s5": [
+            "s5"
+        ],
+        "saacroiliac": [
+            "saacroiliac"
+        ],
+        "sacral": [
+            "sacral"
+        ],
+        "sacroiliac": [
+            "sacroiliac"
+        ],
+        "sacrum": [
+            "sacrum"
+        ],
+        "segment": [
+            "segment"
+        ],
+        "segmental": [
+            "segmental"
+        ],
+        "side": [
+            "side"
+        ],
+        "space": [
+            "space"
+        ],
+        "spine": [
+            "spine"
+        ],
+        "splenic": [
+            "splenic"
+        ],
+        "stomach": [
+            "stomach"
+        ],
+        "subchondral": [
+            "subchondral"
+        ],
+        "superior": [
+            "superior"
+        ],
+        "supraacetabular": [
+            "supraacetabular"
+        ],
+        "surface": [
+            "surface"
+        ],
+        "t~": [
+            "t~"
+        ],
+        "t~l~upper": [
+            "t~l~upper"
+        ],
+        "t~lumbar": [
+            "t~lumbar"
+        ],
+        "t0": [
+            "t0"
+        ],
+        "t10": [
+            "t10"
+        ],
+        "t10-11": [
+            "t10-11"
+        ],
+        "t11": [
+            "t11"
+        ],
+        "t11~l5-s1": [
+            "t11~l5-s1"
+        ],
+        "t11-12": [
+            "t11-12"
+        ],
+        "t11-12-l1": [
+            "t11-12-l1"
+        ],
+        "t11-12-l1-2-3": [
+            "t11-12-l1-2-3"
+        ],
+        "t11-12-l2": [
+            "t11-12-l2"
+        ],
+        "t11-l1": [
+            "t11-l1"
+        ],
+        "t11-l2": [
+            "t11-l2"
+        ],
+        "t11-l3": [
+            "t11-l3"
+        ],
+        "t11-l4": [
+            "t11-l4"
+        ],
+        "t11-t12": [
+            "t11-t12"
+        ],
+        "t11-t12-l1": [
+            "t11-t12-l1"
+        ],
+        "t12": [
+            "t12"
+        ],
+        "t12-l1": [
+            "t12-l1"
+        ],
+        "t12-l1-2": [
+            "t12-l1-2"
+        ],
+        "t12-l1-2-3": [
+            "t12-l1-2-3"
+        ],
+        "t12-l1-2-3-4": [
+            "t12-l1-2-3-4"
+        ],
+        "t12-l1-2-3-4-5": [
+            "t12-l1-2-3-4-5"
+        ],
+        "t12-l1-3-4": [
+            "t12-l1-3-4"
+        ],
+        "t12-l1-l2": [
+            "t12-l1-l2"
+        ],
+        "t12-l2": [
+            "t12-l2"
+        ],
+        "t12-l3": [
+            "t12-l3"
+        ],
+        "t12-l4": [
+            "t12-l4"
+        ],
+        "t-2": [
+            "t-2"
+        ],
+        "t4": [
+            "t4"
+        ],
+        "t5": [
+            "t5"
+        ],
+        "t6": [
+            "t6"
+        ],
+        "t6-7-8": [
+            "t6-7-8"
+        ],
+        "t7": [
+            "t7"
+        ],
+        "t7-8": [
+            "t7-8"
+        ],
+        "t8": [
+            "t8"
+        ],
+        "t8-9": [
+            "t8-9"
+        ],
+        "t9": [
+            "t9"
+        ],
+        "temporooccipital": [
+            "temporooccipital"
+        ],
+        "thoracic": [
+            "thoracic"
+        ],
+        "thoracolumbar": [
+            "thoracolumbar"
+        ],
+        "tibia": [
+            "tibia"
+        ],
+        "tissue": [
+            "tissue"
+        ],
+        "transforaminal": [
+            "transforaminal"
+        ],
+        "transhepatic": [
+            "transhepatic"
+        ],
+        "transluminal": [
+            "transluminal"
+        ],
+        "transverse": [
+            "transverse"
+        ],
+        "up": [
+            "up"
+        ],
+        "upper": [
+            "upper"
+        ],
+        "urinary": [
+            "urinary"
+        ],
+        "uterus": [
+            "uterus"
+        ],
+        "vascular": [
+            "vascular"
+        ],
+        "vena": [
+            "vena"
+        ],
+        "ventral": [
+            "ventral"
+        ],
+        "vertebra": [
+            "vertebra"
+        ],
+        "wall": [
+            "wall"
+        ],
+        "wing": [
+            "wing"
+        ],
+        "longitudinal ligament": [
+            "longitudinal ligament"
+        ],
+        "nucleus pulposus": [
+            "nucleus pulposus"
+        ],
+        "schmorl's node": [
+            "schmorl's node"
+        ],
+        "anterior lumbar interbody fusion": [
+            "anterior lumbar interbody fusion"
+        ],
+        "oblique lumbar interbody fusion": [
+            "oblique lumbar interbody fusion"
+        ],
+        "percutaneous pedicle screw fixation": [
+            "percutaneous pedicle screw fixation"
+        ],
+        "Percutaneous Transhepatic Biliary Drainage": [
+            "Percutaneous Transhepatic Biliary Drainage"
+        ],
+        "posterior lumbar interbody fusion": [
+            "posterior lumbar interbody fusion"
+        ],
+        "transforaminal lumbar interbody fusion": [
+            "transforaminal lumbar interbody fusion"
+        ],
+        "posterior lumbar fusion": [
+            "posterior lumbar fusion"
+        ],
+        "anterior longitudinal ligament": [
+            "anterior longitudinal ligament"
+        ],
+        "inferior vena cava": [
+            "inferior vena cava"
+        ],
+        "right upper quadrant": [
+            "right upper quadrant"
+        ],
+        "left upper quadrant": [
+            "left upper quadrant"
+        ],
+        "Left Lower Lobe": [
+            "Left Lower Lobe"
+        ],
+        "Right Lower Lobe": [
+            "Right Lower Lobe"
+        ],
+        "Right Lower Quadrant": [
+            "Right Lower Quadrant"
+        ],
+        "percutaneous transluminal angioplasty": [
+            "percutaneous transluminal angioplasty"
+        ],
+        "common iliac artery": [
+            "common iliac artery"
+        ],
+        "thoracolumbar interfascial plane": [
+            "thoracolumbar interfascial plane"
+        ]
+    },
+    "feature": {
+        "abscess": [
+            "abscess"
+        ],
+        "acupuncture": [
+            "acupuncture"
+        ],
+        "after": [
+            "after"
+        ],
+        "age": [
+            "age"
+        ],
+        "alignment": [
+            "alignment"
+        ],
+        "amorphous": [
+            "amorphous"
+        ],
+        "aneurysm": [
+            "aneurysm"
+        ],
+        "angulation": [
+            "angulation"
+        ],
+        "ankylosis": [
+            "ankylosis"
+        ],
+        "anomalous": [
+            "anomalous"
+        ],
+        "anomaly": [
+            "anomaly"
+        ],
+        "appearance": [
+            "appearance"
+        ],
+        "arthritis": [
+            "arthritis"
+        ],
+        "arthrosis": [
+            "arthrosis"
+        ],
+        "articulation": [
+            "articulation"
+        ],
+        "artificial": [
+            "artificial"
+        ],
+        "ascites": [
+            "ascites"
+        ],
+        "atherosclerotic": [
+            "atherosclerotic"
+        ],
+        "bamboo": [
+            "bamboo"
+        ],
+        "barium": [
+            "barium"
+        ],
+        "barium-filled": [
+            "barium-filled"
+        ],
+        "blur": [
+            "blur",
+            "blurred",
+            "blurring"
+        ],
+        "blurred": [
+            "blur",
+            "blurred",
+            "blurring"
+        ],
+        "blurring": [
+            "blur",
+            "blurred",
+            "blurring"
+        ],
+        "breakage": [
+            "breakage"
+        ],
+        "bridge": [
+            "bridge"
+        ],
+        "broken": [
+            "broken"
+        ],
+        "bronchiectasis": [
+            "bronchiectasis"
+        ],
+        "bruise": [
+            "bruise"
+        ],
+        "buckling": [
+            "buckling"
+        ],
+        "bulging": [
+            "bulging"
+        ],
+        "butterfly": [
+            "butterfly"
+        ],
+        "calcification": [
+            "calcification"
+        ],
+        "calculus": [
+            "calculus"
+        ],
+        "callus": [
+            "callus"
+        ],
+        "cement": [
+            "cement"
+        ],
+        "change": [
+            "change"
+        ],
+        "charcot": [
+            "charcot"
+        ],
+        "clear": [
+            "clear"
+        ],
+        "clips": [
+            "clips"
+        ],
+        "collapse": [
+            "collapse"
+        ],
+        "compression": [
+            "compression"
+        ],
+        "concave": [
+            "concave"
+        ],
+        "content": [
+            "content"
+        ],
+        "contour": [
+            "contour"
+        ],
+        "contrast": [
+            "contrast"
+        ],
+        "curvature": [
+            "curvature"
+        ],
+        "cyst": [
+            "cyst",
+            "cystic",
+            "cysts"
+        ],
+        "cystic": [
+            "cyst",
+            "cystic",
+            "cysts"
+        ],
+        "cysts": [
+            "cyst",
+            "cystic",
+            "cysts"
+        ],
+        "decompression": [
+            "decompression"
+        ],
+        "defect": [
+            "defect"
+        ],
+        "definition": [
+            "definition"
+        ],
+        "deformed": [
+            "deformed",
+            "deformity"
+        ],
+        "deformity": [
+            "deformed",
+            "deformity"
+        ],
+        "degeneration": [
+            "degeneration"
+        ],
+        "density": [
+            "density"
+        ],
+        "depressed": [
+            "depressed"
+        ],
+        "dermacated": [
+            "dermacated"
+        ],
+        "destroyed": [
+            "destroyed"
+        ],
+        "destruction": [
+            "destruction"
+        ],
+        "developed": [
+            "developed"
+        ],
+        "developmental": [
+            "developmental"
+        ],
+        "deviated": [
+            "deviated"
+        ],
+        "device": [
+            "device"
+        ],
+        "discontinuation": [
+            "discontinuation",
+            "discontinuous"
+        ],
+        "discontinuous": [
+            "discontinuation",
+            "discontinuous"
+        ],
+        "dislocation": [
+            "dislocation"
+        ],
+        "disruption": [
+            "disruption"
+        ],
+        "distruction": [
+            "distruction"
+        ],
+        "Double J catheter": [
+            "Double J catheter"
+        ],
+        "double-contouring": [
+            "double-contouring"
+        ],
+        "dysplasia": [
+            "dysplasia"
+        ],
+        "eburnation": [
+            "eburnation"
+        ],
+        "ectasia": [
+            "ectasia"
+        ],
+        "effusion": [
+            "effusion"
+        ],
+        "encasement": [
+            "encasement"
+        ],
+        "encroachment": [
+            "encroachment"
+        ],
+        "enthesopathy": [
+            "enthesopathy"
+        ],
+        "erosion": [
+            "erosion"
+        ],
+        "feces": [
+            "feces"
+        ],
+        "fibrothorax": [
+            "fibrothorax"
+        ],
+        "fibrous": [
+            "fibrous"
+        ],
+        "filled": [
+            "filled"
+        ],
+        "filtering": [
+            "filtering"
+        ],
+        "filtration": [
+            "filtration"
+        ],
+        "fixation": [
+            "fixation"
+        ],
+        "flattening": [
+            "flattening"
+        ],
+        "flexion": [
+            "flexion"
+        ],
+        "floating": [
+            "floating"
+        ],
+        "formation": [
+            "formation"
+        ],
+        "fracture": [
+            "fracture"
+        ],
+        "fragmentation": [
+            "fragmentation"
+        ],
+        "fusion": [
+            "fusion"
+        ],
+        "gas": [
+            "gas"
+        ],
+        "graft": [
+            "graft"
+        ],
+        "granulomas": [
+            "granulomas"
+        ],
+        "groundglass": [
+            "groundglass"
+        ],
+        "hazziness": [
+            "hazziness"
+        ],
+        "heal": [
+            "heal",
+            "healed",
+            "healing"
+        ],
+        "healed": [
+            "heal",
+            "healed",
+            "healing"
+        ],
+        "healing": [
+            "heal",
+            "healed",
+            "healing"
+        ],
+        "hemangioma": [
+            "hemangioma"
+        ],
+        "herniation": [
+            "herniation"
+        ],
+        "hyperostosis": [
+            "hyperostosis"
+        ],
+        "hypertrophy": [
+            "hypertrophy"
+        ],
+        "ileostomy": [
+            "ileostomy"
+        ],
+        "ileus": [
+            "ileus"
+        ],
+        "infarction": [
+            "infarction"
+        ],
+        "infection": [
+            "infection"
+        ],
+        "inflammation": [
+            "inflammation"
+        ],
+        "injection": [
+            "injection"
+        ],
+        "insertion": [
+            "insertion"
+        ],
+        "instability": [
+            "instability"
+        ],
+        "insufficiency": [
+            "insufficiency"
+        ],
+        "intensity": [
+            "intensity"
+        ],
+        "interruption": [
+            "interruption"
+        ],
+        "invasion": [
+            "invasion"
+        ],
+        "island": [
+            "island"
+        ],
+        "isointense": [
+            "isointense"
+        ],
+        "ivory": [
+            "ivory"
+        ],
+        "kyphoplasty": [
+            "kyphoplasty"
+        ],
+        "kyphosis": [
+            "kyphosis",
+            "kyphoscoliosis",
+            "kyphotic"
+        ],
+        "kyphoscoliosis": [
+            "kyphosis",
+            "kyphoscoliosis",
+            "kyphotic"
+        ],
+        "kyphotic": [
+            "kyphosis",
+            "kyphoscoliosis",
+            "kyphotic"
+        ],
+        "laminectomy": [
+            "laminectomy"
+        ],
+        "leakage": [
+            "leakage"
+        ],
+        "lesion": [
+            "lesion"
+        ],
+        "limbus vetebra": [
+            "limbus vetebra"
+        ],
+        "line": [
+            "line"
+        ],
+        "lipiodol-uptaken": [
+            "lipiodol-uptaken"
+        ],
+        "loosening": [
+            "loosening"
+        ],
+        "lordosis": [
+            "lordosis"
+        ],
+        "loss": [
+            "loss"
+        ],
+        "lucency": [
+            "lucency"
+        ],
+        "lumbarization": [
+            "lumbarization"
+        ],
+        "mass": [
+            "mass"
+        ],
+        "material": [
+            "material"
+        ],
+        "materials": [
+            "materials"
+        ],
+        "media": [
+            "media"
+        ],
+        "media-filled": [
+            "media-filled"
+        ],
+        "mesh": [
+            "mesh"
+        ],
+        "metalic": [
+            "metalic"
+        ],
+        "metastasis": [
+            "metastasis"
+        ],
+        "microdiscectomy": [
+            "microdiscectomy"
+        ],
+        "migration": [
+            "migration"
+        ],
+        "motion": [
+            "motion"
+        ],
+        "myelogram": [
+            "myelogram"
+        ],
+        "narrowing": [
+            "narrowing"
+        ],
+        "near-fusion": [
+            "near-fusion"
+        ],
+        "near-obliterated": [
+            "near-obliterated"
+        ],
+        "necrosis": [
+            "necrosis"
+        ],
+        "needles": [
+            "needles"
+        ],
+        "nephrectomy": [
+            "nephrectomy"
+        ],
+        "neuroarthropathy": [
+            "neuroarthropathy"
+        ],
+        "neurogenic": [
+            "neurogenic"
+        ],
+        "nodule": [
+            "nodule",
+            "nodules"
+        ],
+        "nodules": [
+            "nodule",
+            "nodules"
+        ],
+        "oblique": [
+            "oblique"
+        ],
+        "obliteration": [
+            "obliteration"
+        ],
+        "opacity": [
+            "opacity"
+        ],
+        "organomegaly": [
+            "organomegaly"
+        ],
+        "osseous": [
+            "osseous",
+            "ossification",
+            "ossified"
+        ],
+        "ossification": [
+            "osseous",
+            "ossification",
+            "ossified"
+        ],
+        "ossified": [
+            "osseous",
+            "ossification",
+            "ossified"
+        ],
+        "osteoarthritis": [
+            "osteoarthritis"
+        ],
+        "osteoblastic": [
+            "osteoblastic"
+        ],
+        "osteolytic": [
+            "osteolytic"
+        ],
+        "osteomalacia": [
+            "osteomalacia"
+        ],
+        "osteopenia": [
+            "osteopenia"
+        ],
+        "osteoporosis": [
+            "osteoporosis"
+        ],
+        "pancreatitis": [
+            "pancreatitis"
+        ],
+        "paralytic": [
+            "paralytic"
+        ],
+        "patchy": [
+            "patchy"
+        ],
+        "pattern": [
+            "pattern"
+        ],
+        "phlebolith": [
+            "phlebolith"
+        ],
+        "pills": [
+            "pills"
+        ],
+        "plaque": [
+            "plaque",
+            "plaques"
+        ],
+        "plaques": [
+            "plaque",
+            "plaques"
+        ],
+        "porcelain": [
+            "porcelain"
+        ],
+        "protrusion": [
+            "protrusion"
+        ],
+        "pseudoarticulation": [
+            "pseudoarticulation"
+        ],
+        "radiolucency": [
+            "radiolucency"
+        ],
+        "radiopacity": [
+            "radiopacity"
+        ],
+        "radioplaque": [
+            "radioplaque"
+        ],
+        "refracture": [
+            "refracture"
+        ],
+        "resection": [
+            "resection"
+        ],
+        "resorption": [
+            "resorption"
+        ],
+        "round": [
+            "round"
+        ],
+        "sacralization": [
+            "sacralization"
+        ],
+        "sacroiliitis": [
+            "sacroiliitis"
+        ],
+        "scalloping": [
+            "scalloping"
+        ],
+        "schmorl's": [
+            "schmorl's"
+        ],
+        "schwannoma": [
+            "schwannoma"
+        ],
+        "sclerosis": [
+            "sclerosis"
+        ],
+        "scoliosis": [
+            "scoliosis"
+        ],
+        "screw": [
+            "screw"
+        ],
+        "secondary": [
+            "secondary"
+        ],
+        "series": [
+            "series"
+        ],
+        "serration": [
+            "serration"
+        ],
+        "signal": [
+            "signal"
+        ],
+        "situ": [
+            "situ"
+        ],
+        "idiopathic skeletal hyperostosis": [
+            "idiopathic skeletal hyperostosis"
+        ],
+        "slippage": [
+            "slippage"
+        ],
+        "smoothening": [
+            "smoothening"
+        ],
+        "splenomegaly": [
+            "splenomegaly"
+        ],
+        "spondylitis": [
+            "spondylitis"
+        ],
+        "spondylosis": [
+            "spondylosis"
+        ],
+        "spur": [
+            "spur"
+        ],
+        "squaring": [
+            "squaring"
+        ],
+        "staghorn": [
+            "staghorn"
+        ],
+        "state": [
+            "state"
+        ],
+        "stenosis": [
+            "stenosis"
+        ],
+        "stent": [
+            "stent"
+        ],
+        "stone": [
+            "stone"
+        ],
+        "straightening": [
+            "straightening"
+        ],
+        "subluxation": [
+            "subluxation"
+        ],
+        "surgical": [
+            "surgical"
+        ],
+        "suture": [
+            "suture"
+        ],
+        "syndesmophytosis": [
+            "syndesmophytosis"
+        ],
+        "syndrome": [
+            "syndrome"
+        ],
+        "tendinitis": [
+            "tendinitis"
+        ],
+        "thick": [
+            "thick",
+            "thickening"
+        ],
+        "thickening": [
+            "thick",
+            "thickening"
+        ],
+        "thin": [
+            "thin",
+            "thinning"
+        ],
+        "thinning": [
+            "thin",
+            "thinning"
+        ],
+        "tilting": [
+            "tilting"
+        ],
+        "tortuous": [
+            "tortuous"
+        ],
+        "transition": [
+            "transition"
+        ],
+        "undulation": [
+            "undulation"
+        ],
+        "vaccum": [
+            "vaccum"
+        ],
+        "vacuum": [
+            "vacuum"
+        ],
+        "variant": [
+            "variant"
+        ],
+        "wedge": [
+            "wedge"
+        ],
+        "height": [
+            "height"
+        ],
+        "widening": [
+            "widening"
+        ],
+        "acupuncture needles": [
+            "acupuncture needles"
+        ],
+        "bamboo spine": [
+            "bamboo spine"
+        ],
+        "contrast media": [
+            "contrast media"
+        ],
+        "limbus vertebra": [
+            "limbus vertebra"
+        ],
+        "normal variant": [
+            "normal variant"
+        ],
+        "staghorn calculus": [
+            "staghorn calculus"
+        ],
+        "ossification of the anterior longitudinal ligament": [
+            "ossification of the anterior longitudinal ligament"
+        ],
+        "ossification of the posterior longitudinal ligament": [
+            "ossification of the posterior longitudinal ligament"
+        ],
+        "pedicle screw fixation": [
+            "pedicle screw fixation"
+        ],
+        "bony spur change": [
+            "bony spur change"
+        ],
+        "Spina bifida": [
+            "Spina bifida"
+        ]
+    },
+    "impression": {
+        "abnormal": [
+            "abnormal",
+            "abnormality"
+        ],
+        "abnormality": [
+            "abnormal",
+            "abnormality"
+        ],
+        "angioplasty": [
+            "angioplasty"
+        ],
+        "arthroplasty": [
+            "arthroplasty"
+        ],
+        "burst": [
+            "burst"
+        ],
+        "cancer": [
+            "cancer"
+        ],
+        "catheter": [
+            "catheter"
+        ],
+        "confer": [
+            "confer"
+        ],
+        "chance": [
+            "chance"
+        ],
+        "cholecystectomy": [
+            "cholecystectomy"
+        ],
+        "colostomy": [
+            "colostomy"
+        ],
+        "contusion": [
+            "contusion"
+        ],
+        "correlation": [
+            "correlation"
+        ],
+        "ct": [
+            "ct"
+        ],
+        "disease": [
+            "disease"
+        ],
+        "drainage": [
+            "drainage"
+        ],
+        "evaluation": [
+            "evaluation"
+        ],
+        "finding": [
+            "finding"
+        ],
+        "follow": [
+            "follow"
+        ],
+        "hemiarthroplasty": [
+            "hemiarthroplasty"
+        ],
+        "hemilaminectomy": [
+            "hemilaminectomy"
+        ],
+        "idiopathic": [
+            "idiopathic"
+        ],
+        "interval": [
+            "interval"
+        ],
+        "lasts": [
+            "lasts"
+        ],
+        "mri": [
+            "mri"
+        ],
+        "myeoloma": [
+            "myeoloma"
+        ],
+        "myoma": [
+            "myoma"
+        ],
+        "neccessory": [
+            "neccessory"
+        ],
+        "neurofibromatosis": [
+            "neurofibromatosis"
+        ],
+        "osteomyelitis": [
+            "osteomyelitis"
+        ],
+        "osteonecrosis": [
+            "osteonecrosis"
+        ],
+        "pathologic": [
+            "pathologic"
+        ],
+        "post-ct": [
+            "post-ct"
+        ],
+        "postoperative": [
+            "postoperative"
+        ],
+        "previous": [
+            "previous"
+        ],
+        "probably": [
+            "probably"
+        ],
+        "psoriasis": [
+            "psoriasis"
+        ],
+        "range": [
+            "range"
+        ],
+        "recommendation": [
+            "recommendation"
+        ],
+        "scan": [
+            "scan"
+        ],
+        "sequelae": [
+            "sequelae"
+        ],
+        "seronegative": [
+            "seronegative"
+        ],
+        "shunt": [
+            "shunt"
+        ],
+        "spinectomy": [
+            "spinectomy"
+        ],
+        "spondyloarthropathy": [
+            "spondyloarthropathy"
+        ],
+        "spondylodiscitis": [
+            "spondylodiscitis"
+        ],
+        "spondylolisthesis": [
+            "spondylolisthesis"
+        ],
+        "suggested": [
+            "suggested"
+        ],
+        "suspected": [
+            "suspected"
+        ],
+        "symptom": [
+            "symptom"
+        ],
+        "tuberculosis": [
+            "tuberculosis"
+        ],
+        "trauma": [
+            "trauma"
+        ],
+        "tumor": [
+            "tumor"
+        ],
+        "underlying": [
+            "underlying"
+        ],
+        "vertebroplasty": [
+            "vertebroplasty"
+        ],
+        "view": [
+            "view"
+        ],
+        "ankylosing spondylitis": [
+            "ankylosing spondylitis"
+        ],
+        "avascular necrosis": [
+            "avascular necrosis"
+        ],
+        "burst fracture": [
+            "burst fracture"
+        ],
+        "chance fracture": [
+            "chance fracture"
+        ],
+        "compression fracture": [
+            "compression fracture"
+        ],
+        "klippel-feil syndrome": [
+            "klippel-feil syndrome"
+        ],
+        "kummell's disease": [
+            "kummell's disease"
+        ],
+        "lumboperitoneal shunt": [
+            "lumboperitoneal shunt"
+        ],
+        "lung cancer": [
+            "lung cancer"
+        ],
+        "myelodysplastic syndrome": [
+            "myelodysplastic syndrome"
+        ],
+        "neurogenic tumor": [
+            "neurogenic tumor"
+        ],
+        "spinal instability": [
+            "spinal instability"
+        ],
+        "diffuse idiopathic skeletal hyperostosis": [
+            "diffuse idiopathic skeletal hyperostosis"
+        ],
+        "Herniation of Nucleus Pulposus": [
+            "Herniation of Nucleus Pulposus"
+        ],
+        "Non-small cell lung cancer": [
+            "Non-small cell lung cancer"
+        ],
+        "abdominal aortic aneurysm": [
+            "abdominal aortic aneurysm"
+        ],
+        "total disc replacement": [
+            "total disc replacement"
+        ],
+        "Total hip arthroplasty": [
+            "Total hip arthroplasty"
+        ],
+        "Total hip replacement": [
+            "Total hip replacement"
+        ],
+        "artificial disc replacement": [
+            "artificial disc replacement"
+        ],
+        "developmental dysplasia of the hip": [
+            "developmental dysplasia of the hip"
+        ],
+        "Adjacent Segment Disease": [
+            "Adjacent Segment Disease"
+        ],
+        "idiopathic skeletal hyperostosis": [
+            "idiopathic skeletal hyperostosis"
+        ],
+        "osteitis chondensans ilii": [
+            "osteitis chondensans ilii"
+        ],
+        "total hip arthroplasty": [
+            "total hip arthroplasty"
+        ],
+        "within normal range": [
+            "within normal range"
+        ]
+    }
+}
